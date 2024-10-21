@@ -1,6 +1,7 @@
 # Frankfurter
 
 [![Build](https://github.com/hakanensari/frankfurter/workflows/build/badge.svg)](https://github.com/hakanensari/frankfurter/actions)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYOoOsRi%2FMaestro-shares-open-currency-rates-with-you.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FYOoOsRi%2FMaestro-shares-open-currency-rates-with-you?ref=badge_shield)
 
 [Frankfurter](https://www.frankfurter.app) is a free and open-source currency data API that tracks reference exchange rates published by the European Central Bank.
 
@@ -41,3 +42,7 @@ docker run -d -p 8080:8080 \
 ## Miscellaneous
 
 Frankfurter was known as Fixer between 2012 and 2018. After selling the original domain, I relaunched under this name.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYOoOsRi%2FMaestro-shares-open-currency-rates-with-you.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FYOoOsRi%2FMaestro-shares-open-currency-rates-with-you?ref=badge_large)
